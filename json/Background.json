@@ -1,0 +1,67 @@
+[
+    {
+        "bg_id": "000",
+        "name": "error bg",
+        "path": "https://images.alsritter.icu/images/2021/09/13/error_bg.png"
+    },
+    {
+        "bg_id": "001",
+        "name": "forest bg",
+        "path": "https://images.alsritter.icu/images/2021/09/13/01.png"
+    },
+    {
+        "bg_id": "002",
+        "name": "fungus bg",
+        "path": "https://images.alsritter.icu/images/2021/09/13/02.png"
+    },
+    {
+        "bg_id": "003",
+        "name": "ocean bg",
+        "path": "https://images.alsritter.icu/images/2021/09/13/03.png"
+    },
+    {
+        "bg_id": "004",
+        "name": "snow bg",
+        "path": "https://images.alsritter.icu/images/2021/09/13/04.png"
+    },
+    {
+        "bg_id": "005",
+        "name": "ocean bg 02",
+        "path": "https://images.alsritter.icu/images/2021/09/13/05_2.png"
+    },
+    {
+        "bg_id": "006",
+        "name": "mountain bg",
+        "path": "https://images.alsritter.icu/images/2021/09/13/05_3.png"
+    },
+    {
+        "bg_id": "007",
+        "name": "green bg",
+        "path": "https://images.alsritter.icu/images/2021/09/13/05_4.png"
+    },
+    {
+        "bg_id": "008",
+        "name": "city",
+        "path": "https://images.alsritter.icu/images/2021/10/07/bg.png"
+    },
+    {
+        "bg_id": "009",
+        "name": "wood",
+        "path": "https://images.alsritter.icu/images/2021/10/07/Hills-Free-update-3.0.png"
+    },
+    {
+        "bg_id": "010",
+        "name": "night city",
+        "path": "https://images.alsritter.icu/images/2021/10/07/bg03.png"
+    },
+    {
+        "bg_id": "011",
+        "name": "night wood",
+        "path": "https://images.alsritter.icu/images/2021/10/07/night-wood.png"
+    },
+    {
+        "bg_id": "012",
+        "name": "night city02",
+        "path": "https://images.alsritter.icu/images/2021/10/07/cyberpunk.png"
+    }
+]
